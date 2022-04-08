@@ -8,5 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<iframe width="60%" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=711354723&amp;format=interactive"></iframe>
+<center>
+<iframe width="1101" height="680" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUnYQEEYX8H4_9CCMvLbGa-55uSlt_F-Z8ChKTiATpraU6-zjmn2ijwgVX3f2Dx7u-Z0SECfAGc-xR/pubchart?oid=711354723&amp;format=interactive"></iframe>
 
+</center>
